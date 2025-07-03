@@ -5,3 +5,5 @@ pydantic
 uvicorn[standard]
 
 tortoise-orm
+
+passlib[bcrypt]
